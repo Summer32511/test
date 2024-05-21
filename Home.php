@@ -11,3 +11,4 @@ class Home extends BaseController
 
 
 }
+C:\xampp\htdocs\yang_kemaren\app\Controllers\Home.php
